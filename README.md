@@ -33,7 +33,7 @@ The code repository is now available. This is the official repository of our wor
               |modules.py  
               |prepare.py  
               |model.py  
-              |train_MSESMmamba.py
+              |train_model.py
 ```
 
 
